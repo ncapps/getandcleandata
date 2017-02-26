@@ -6,7 +6,7 @@ This code book summarizes the data fields in 'tidy_data.txt'
 * "trainingsubject" - An identifier of the subject who carried out the experiment.
  
 # Measurements
-These observations where averaged by activity and subject pairs.
+These observations where averaged by activity and trainingsubject pairs.
 * "tBodyAcc-mean()-Y"              
 * "tBodyAcc-mean()-X"              
 * "tBodyAcc-mean()-Z"              
